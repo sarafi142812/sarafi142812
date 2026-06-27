@@ -1,6 +1,9 @@
 <img width="1792" height="592" alt="Gemini_Generated_Image_27pull27pull27pu" src="https://github.com/user-attachments/assets/16455139-eb72-444e-b3b7-f9a6190dfe8b" />
 
-# 💫 About Me:
+# 💫 About Me: 
+<h5>
+  AI-focused Full Stack Developer with hands-on experience in building scalable backend systems, RESTful APIs, and machine learning solutions. Skilled in ASP.NET Web API, Python, and database-driven application design, with practical exposure to deep learning and real-world problem solving. Published researcher with work in misinformation detection and medical image classification. Passionate about developing intelligent systems and contributing to production-level AI-driven applications.
+</h5><br>
 👯 I’m looking to collaborate on GitHub.<br>📫 How to reach me: sarafi7814@gmail.com<br>🔬 Questions or research discussions are always welcome!<br>
 
 
